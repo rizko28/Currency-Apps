@@ -26,5 +26,7 @@ Logika perhitungan terdapat pada class `CurrencyController.cs` sebagai berikut:
             return Convert.ToString(result);
         }
 ```
+!["Class Diagram"](classdiagram.png)
+
 
 # Follow ig : @rizko28 
